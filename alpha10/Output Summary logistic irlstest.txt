@@ -1,0 +1,6 @@
+[{'Dataset Size': 1,
+  'Iterations': 7.0,
+  'Mean': 0.12,
+  'Model': 'logistic',
+  'Run Time': 0.013629800000000001,
+  'STD': 0.0}]
